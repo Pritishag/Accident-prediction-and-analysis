@@ -1,0 +1,211 @@
+plant,plant name,type of injury,month,number of injury,year
+100,Blast Furnace,fracture,jan,5,2000
+101,Steel Melting Shop,sprain,mar,7,2000
+102,Hot Strip Mill,eye injury,feb,1,2000
+200,Cold Rolling Mill,amputation,sep,1,2000
+201,Galvanizing Line,eye injury,apr,4,2000
+202,Coke Ovens,back injury,may,3,2000
+300,Sinter Plant,amputation,june,2,2000
+301,Power House,electric shocks,aug,9,2000
+302,Water Treatment Plant,sprain,sep,6,2000
+400,Raw Material Handling System,electric shocks,feb,12,2000
+401,Iron Making,bruises,mar,6,2000
+402,Steel Making,back injury,sep,9,2000
+500,Casting,joint dislocation,nov,15,2000
+501,Rolling Mills,fracture,june,2,2000
+502,Finished Products,sprain,dec,20,2000
+600,Maintenance and Services,hearing loss,oct,5,2000
+601,Quality Control,eye injury,jul,11,2000
+602,Research and Development,eye injury,mar,2,2000
+700,Environment Management,muscle tear,jan,6,2000
+701,Safety and Health Department,nerve damage,feb,7,2000
+702,Supply Chain Management,fracture,mar,9,2000
+800,Procurement,nerve damage,apr,1,2000
+801,Logistics,joint dislocation,may,2,2000
+802,Human Resources,sprain,june,4,2000
+900,Information Technology,electric shocks,jul,10,2000
+901,Finance and Accounts,nerve damage,aug,3,2000
+903,Corporate Social Responsibility,eye injury,sep,2,2000
+303,Public Relations,joint dislocation,oct,8,2000
+304,Engineering Services,bruises,nov,22,2000
+305,Training and Development,hearing loss,dec,4,2000
+100,Blast Furnace,fracture,jan,7,2001
+101,Steel Melting Shop,sprain,mar,16,2001
+102,Hot Strip Mill,eye injury,feb,3,2001
+200,Cold Rolling Mill,amputation,sep,5,2001
+201,Galvanizing Line,eye injury,apr,9,2001
+202,Coke Ovens,back injury,may,15,2001
+300,Sinter Plant,amputation,june,12,2001
+301,Power House,electric shocks,aug,12,2001
+302,Water Treatment Plant,sprain,sep,4,2001
+400,Raw Material Handling System,electric shocks,feb,18,2001
+401,Iron Making,bruises,mar,9,2001
+402,Steel Making,back injury,sep,7,2001
+500,Casting,joint dislocation,nov,9,2001
+501,Rolling Mills,fracture,june,17,2001
+502,Finished Products,sprain,dec,9,2001
+600,Maintenance and Services,hearing loss,oct,11,2001
+601,Quality Control,eye injury,jul,6,2001
+602,Research and Development,eye injury,mar,10,2001
+700,Environment Management,muscle tear,jan,16,2001
+701,Safety and Health Department,nerve damage,feb,1,2001
+702,Supply Chain Management,fracture,mar,4,2001
+800,Procurement,nerve damage,apr,8,2001
+801,Logistics,joint dislocation,may,18,2001
+802,Human Resources,sprain,june,8,2001
+900,Information Technology,electric shocks,jul,8,2001
+901,Finance and Accounts,nerve damage,aug,11,2001
+903,Corporate Social Responsibility,eye injury,sep,2,2001
+303,Public Relations,joint dislocation,oct,7,2001
+304,Engineering Services,bruises,nov,0,2001
+305,Training and Development,hearing loss,dec,20,2001
+100,Blast Furnace,fracture,jan,5,2002
+101,Steel Melting Shop,sprain,mar,6,2002
+102,Hot Strip Mill,eye injury,feb,7,2002
+200,Cold Rolling Mill,amputation,sep,8,2002
+201,Galvanizing Line,eye injury,apr,9,2002
+202,Coke Ovens,back injury,may,10,2002
+300,Sinter Plant,amputation,june,2,2002
+301,Power House,electric shocks,aug,9,2002
+302,Water Treatment Plant,sprain,sep,6,2002
+400,Raw Material Handling System,electric shocks,feb,12,2002
+401,Iron Making,bruises,mar,6,2002
+402,Steel Making,back injury,sep,9,2002
+500,Casting,joint dislocation,nov,15,2002
+501,Rolling Mills,fracture,june,2,2002
+502,Finished Products,sprain,dec,20,2002
+600,Maintenance and Services,hearing loss,oct,5,2002
+601,Quality Control,eye injury,jul,11,2002
+602,Research and Development,eye injury,mar,2,2002
+700,Environment Management,muscle tear,jan,6,2002
+701,Safety and Health Department,nerve damage,feb,7,2002
+702,Supply Chain Management,fracture,mar,9,2002
+800,Procurement,nerve damage,apr,1,2002
+801,Logistics,joint dislocation,may,2,2002
+802,Human Resources,sprain,june,4,2002
+900,Information Technology,electric shocks,jul,10,2002
+901,Finance and Accounts,nerve damage,aug,3,2002
+903,Corporate Social Responsibility,eye injury,sep,2,2002
+303,Public Relations,joint dislocation,oct,8,2002
+304,Engineering Services,bruises,nov,22,2002
+305,Training and Development,hearing loss,dec,4,2002
+100,Blast Furnace,fracture,jan,8,2003
+101,Steel Melting Shop,sprain,mar,7,2003
+102,Hot Strip Mill,eye injury,feb,1,2003
+200,Cold Rolling Mill,amputation,sep,1,2003
+201,Galvanizing Line,eye injury,apr,4,2003
+202,Coke Ovens,back injury,may,3,2003
+300,Sinter Plant,amputation,june,2,2003
+301,Power House,electric shocks,aug,9,2003
+302,Water Treatment Plant,sprain,sep,6,2003
+400,Raw Material Handling System,electric shocks,feb,12,2003
+401,Iron Making,bruises,mar,6,2003
+402,Steel Making,back injury,sep,9,2003
+500,Casting,joint dislocation,nov,15,2003
+501,Rolling Mills,fracture,june,2,2003
+502,Finished Products,sprain,dec,20,2003
+600,Maintenance and Services,hearing loss,oct,5,2003
+601,Quality Control,eye injury,jul,11,2003
+602,Research and Development,eye injury,mar,2,2003
+700,Environment Management,muscle tear,jan,6,2003
+701,Safety and Health Department,nerve damage,feb,7,2003
+702,Supply Chain Management,fracture,mar,9,2003
+800,Procurement,nerve damage,apr,1,2003
+801,Logistics,joint dislocation,may,2,2003
+802,Human Resources,sprain,june,4,2003
+900,Information Technology,electric shocks,jul,10,2003
+901,Finance and Accounts,nerve damage,aug,3,2003
+903,Corporate Social Responsibility,eye injury,sep,2,2003
+303,Public Relations,joint dislocation,oct,8,2003
+304,Engineering Services,bruises,nov,22,2003
+305,Training and Development,hearing loss,dec,4,2003
+100,Blast Furnace,fracture,jan,5,2004
+101,Steel Melting Shop,sprain,mar,7,2004
+102,Hot Strip Mill,eye injury,feb,1,2004
+200,Cold Rolling Mill,amputation,sep,1,2004
+201,Galvanizing Line,eye injury,apr,4,2004
+202,Coke Ovens,back injury,may,3,2004
+300,Sinter Plant,amputation,june,2,2004
+301,Power House,electric shocks,aug,9,2004
+302,Water Treatment Plant,sprain,sep,6,2004
+400,Raw Material Handling System,electric shocks,feb,12,2004
+401,Iron Making,bruises,mar,6,2004
+402,Steel Making,back injury,sep,9,2004
+500,Casting,joint dislocation,nov,15,2004
+501,Rolling Mills,fracture,june,2,2004
+502,Finished Products,sprain,dec,20,2004
+600,Maintenance and Services,hearing loss,oct,5,2004
+601,Quality Control,eye injury,jul,11,2004
+602,Research and Development,eye injury,mar,2,2004
+700,Environment Management,muscle tear,jan,6,2004
+701,Safety and Health Department,nerve damage,feb,7,2004
+702,Supply Chain Management,fracture,mar,9,2004
+800,Procurement,nerve damage,apr,1,2004
+801,Logistics,joint dislocation,may,2,2004
+802,Human Resources,sprain,june,4,2004
+900,Information Technology,electric shocks,jul,10,2004
+901,Finance and Accounts,nerve damage,aug,3,2004
+903,Corporate Social Responsibility,eye injury,sep,2,2004
+303,Public Relations,joint dislocation,oct,8,2004
+304,Engineering Services,bruises,nov,22,2004
+305,Training and Development,hearing loss,dec,4,2004
+100,Blast Furnace,fracture,jan,0,2005
+101,Steel Melting Shop,sprain,mar,6,2005
+102,Hot Strip Mill,eye injury,feb,3,2005
+200,Cold Rolling Mill,amputation,sep,10,2005
+201,Galvanizing Line,eye injury,apr,9,2005
+202,Coke Ovens,back injury,may,11,2005
+300,Sinter Plant,amputation,june,6,2005
+301,Power House,electric shocks,aug,15,2005
+302,Water Treatment Plant,sprain,sep,17,2005
+400,Raw Material Handling System,electric shocks,feb,14,2005
+401,Iron Making,bruises,mar,3,2005
+402,Steel Making,back injury,sep,0,2005
+500,Casting,joint dislocation,nov,11,2005
+501,Rolling Mills,fracture,june,17,2005
+502,Finished Products,sprain,dec,2,2005
+600,Maintenance and Services,hearing loss,oct,8,2005
+601,Quality Control,eye injury,jul,2,2005
+602,Research and Development,eye injury,mar,16,2005
+700,Environment Management,muscle tear,jan,4,2005
+701,Safety and Health Department,nerve damage,feb,0,2005
+702,Supply Chain Management,fracture,mar,2,2005
+800,Procurement,nerve damage,apr,9,2005
+801,Logistics,joint dislocation,may,13,2005
+802,Human Resources,sprain,june,14,2005
+900,Information Technology,electric shocks,jul,8,2005
+901,Finance and Accounts,nerve damage,aug,11,2005
+903,Corporate Social Responsibility,eye injury,sep,2,2005
+303,Public Relations,joint dislocation,oct,8,2005
+304,Engineering Services,bruises,nov,1,2005
+305,Training and Development,hearing loss,dec,6,2005
+100,Blast Furnace,fracture,jan,2,2006
+101,Steel Melting Shop,sprain,mar,8,2006
+102,Hot Strip Mill,eye injury,feb,9,2006
+200,Cold Rolling Mill,amputation,sep,6,2006
+201,Galvanizing Line,eye injury,apr,0,2006
+202,Coke Ovens,back injury,may,8,2006
+300,Sinter Plant,amputation,june,4,2006
+301,Power House,electric shocks,aug,6,2006
+302,Water Treatment Plant,sprain,sep,0,2006
+400,Raw Material Handling System,electric shocks,feb,9,2006
+401,Iron Making,bruises,mar,4,2006
+402,Steel Making,back injury,sep,10,2006
+500,Casting,joint dislocation,nov,7,2006
+501,Rolling Mills,fracture,june,7,2006
+502,Finished Products,sprain,dec,3,2006
+600,Maintenance and Services,hearing loss,oct,5,2006
+601,Quality Control,eye injury,jul,7,2006
+602,Research and Development,eye injury,mar,2,2006
+700,Environment Management,muscle tear,jan,1,2006
+701,Safety and Health Department,nerve damage,feb,0,2006
+702,Supply Chain Management,fracture,mar,10,2006
+800,Procurement,nerve damage,apr,8,2006
+801,Logistics,joint dislocation,may,2,2006
+802,Human Resources,sprain,june,8,2006
+900,Information Technology,electric shocks,jul,1,2006
+901,Finance and Accounts,nerve damage,aug,2,2006
+903,Corporate Social Responsibility,eye injury,sep,1,2006
+303,Public Relations,joint dislocation,oct,8,2006
+304,Engineering Services,bruises,nov,7,2006
+305,Training and Development,hearing loss,dec,3,2006
